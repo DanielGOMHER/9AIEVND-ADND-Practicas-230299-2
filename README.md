@@ -13,4 +13,4 @@ Este repositorio contendra losresultados de la materia para tener una mejor orga
 
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.|[Introducción al Uso de Python en el Análisis de Datos](/Practica02/Practica2DanielGH230299.ipynb)|37|✅Revisada|
+|1.|[Introducción al Uso de Python en el Análisis de Datos](./Practica02/Practica2DanielGH230299.ipynb)|37|✅Revisada|
